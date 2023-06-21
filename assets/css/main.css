@@ -258,6 +258,7 @@ img {
 .program-card-image {
   width: 84px;
   height: auto;
+  border-radius: 10px;
   margin-bottom: 1rem;
 }
 /* end */
